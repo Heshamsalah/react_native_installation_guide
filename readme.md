@@ -54,7 +54,7 @@ https://developer.android.com/studio/run/emulator-acceleration.html#vm-linux
         export PATH=${PATH}:${ANDROID_HOME}/tools
         export PATH=${PATH}:${ANDROID_HOME}/platform-tools
 
-- Type source `~/.profile` to load the config into your current shell.
+- Type `source ~/.profile` to load the config into your current shell.
 
 *Please make sure you export the correct path for ANDROID_HOME, if you did not install the Android SDK using Android Studio.Check using this cmd: `echo $ANDROID_HOME`*
 
