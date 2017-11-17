@@ -1,4 +1,4 @@
-#ReactNative Installation Guide
+# ReactNative Installation Guide
 
 ## :arrow_up: How to Setup React and it's related stuff
 
@@ -58,7 +58,7 @@ https://developer.android.com/studio/run/emulator-acceleration.html#vm-linux
 
 *Please make sure you export the correct path for ANDROID_HOME, if you did not install the Android SDK using Android Studio.Check using this cmd: `echo $ANDROID_HOME`*
 
-##Some Useful Links:
+## Some Useful Links:
 - [**Iginte**](https://github.com/infinitered/ignite) as a react native dependency manager.
 - [**Native Base**](https://github.com/GeekyAnts/NativeBase) as an App base theme.
 - [**Reactotron**](https://github.com/infinitered/reactotron) for debugging.
